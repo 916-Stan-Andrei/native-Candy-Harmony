@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MyFirstCRUDApp</string>
+    <string name="show_less">Show less</string>
+    <string name="show_more">Show more</string>
+    <string name="title_activity_add_to_shopping_cart">AddToShoppingCartActivity</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_activity_my_shopping_cart_screen">MyShoppingCartScreen</string>
+    <string name="title_activity_update_card_screen">UpdateCardScreen</string>
+</resources>
